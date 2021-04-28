@@ -14,6 +14,6 @@ c8\mf c g' g
 }
 
 \addlyrics {
-  Twinkle twinkle little star
-  How I wonder where you are
+  Twink -- le twink -- le lit -- tle star
+  How I won -- der where you are
 }
